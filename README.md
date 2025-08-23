@@ -1,6 +1,6 @@
 # hello world!
 ### main languages:
-c/c++, python
+c/c++, python, java(unfortunately)
 
 ### interests:
-low level programming and cpu architecture
+low level programming, embedded systems, math, physics, game dev and stuff that looks cool
