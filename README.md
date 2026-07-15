@@ -1,7 +1,31 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00599C&height=200&section=header&text=Hello world!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-  
-  <p><em>Bridging the gap between bare-metal hardware, mathematics, and interactive physics.</em></p>
+<img width="854" height="200" alt="api" src="https://github.com/user-attachments/assets/4ded4ca5-932f-4408-a974-ec25b9202418" /><div align="center">
+  <img src="" />
+  <svg width="854" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" viewBox="0 0 854 200">
+        <style>
+      .text {   font-size: 40px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  } 
+        </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#fa61f5"/><stop offset="100%" stop-color="#07cdfa"/>
+              </linearGradient>
+        </defs>
+        
+        <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+        <path d="" fill="url(#linear)" opacity="0.4">
+          <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4">
+          <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1">Hello world!</text>
+        
+      </svg>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Bridging+bare-metal+hardware+and+math;Building+custom+physics+engines;Tinkering+with+Microcontrollers" alt="Typing Subtitle" />
 </div>
 
 ---
