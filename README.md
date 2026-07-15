@@ -78,4 +78,3 @@ Contact me on:
 - **Discord:** `gtmog.` I may or may not be busy.
 - **Instagram:** `gtmog._` Drop a follow if you like my content.
 - **Youtube:** [YXHYX](https://www.youtube.com/@yxhyx._x) would love feedback.
----
