@@ -9,11 +9,11 @@
 ### 🔬 About Me
 I'm passionate about making things move—whether that's electrons through a microcontroller, rigid bodies in a custom physics engine, or pixels on a screen. I love breaking down complex mathematical and physical phenomena into optimized code.
 
-- ⚡ **Current Focus:** Building physics engines from scratch, programming microcontrollers, and exploring numerical methods.
-- 🎮 **Game Dev:** Writing low-level renderers and logic for interactive simulations.
-- 📐 **Math & Physics:** Fascinated by fluid dynamics, kinematics, calculus, and procedural generation.
-- 🛠️ **Hardware:** Tinkering with ESP32s, AVRs, and PICs.
-- 🌱 **Currently Learning:** Embedded Rust, Vulkan API, and advanced compute shaders.
+- **Current Focus:** Building physics engines from scratch, programming microcontrollers, and exploring numerical methods.
+- **Game Dev:** Writing low-level renderers and logic for interactive simulations.
+- **Math & Physics:** Fascinated by fluid dynamics, kinematics, calculus, and procedural generation.
+- **Hardware:** Tinkering with ESP32s, AVRs, and PICs.
+- **Currently Learning:** Embedded Rust, Vulkan API, and advanced compute shaders.
 
 ---
 
@@ -50,13 +50,12 @@ I'm passionate about making things move—whether that's electrons through a mic
 
 ---
 
-### 🧪 What I'm Cooking (Project Archetypes)
-> *Replace these with your actual repositories!*
+### 🧪 Currently Cooking (Project Archetypes)
 
-- 🍎 **`Simath`**: A custom 3D windows based rasterizer that runs on the terminal, primarily used for simple math/physics demonstrations.
-- 📡 **`ESP32-water-irrigatoin`**: Real-time monitoring and control of irrigation systems using ESP32.
-- 🌌 **`sfml-attractor`**: Exploring attractors and their chaos using SFML and C++.
-- 🕹️ **`model-compressor`**: A 3D model compressor made using Fourier series with spherical harmonics with visualizer.
+- **`Simath`**: A custom 3D windows based rasterizer that runs on the terminal, primarily used for simple math/physics demonstrations.
+- **`ESP32-water-irrigatoin`**: Real-time monitoring and control of irrigation systems using ESP32.
+- **`sfml-attractor`**: Exploring attractors and their chaos using SFML and C++.
+- **`model-compressor`**: A 3D model compressor made using Fourier series with spherical harmonics with visualizer.
 
 ---
 
